@@ -1,0 +1,39 @@
+.cuadro {
+  height: 25vh;
+  cursor: pointer;
+  opacity: 0;
+  border: solid 1px black;
+}
+
+.col {
+  border: solid 1px black;
+  height: 25vh;
+}
+
+.rojo {
+  background-color: red;
+}
+
+.verde {
+  background-color: green;
+}
+
+.azul {
+  background-color: blue;
+}
+
+.negro {
+  background-color: black;
+}
+
+.blanco {
+  background-color: white;
+}
+
+.amarillo {
+  background-color: yellow;
+}
+
+#finJuego {
+  display: none;
+}
