@@ -1,0 +1,26 @@
+{
+  "name": "memotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress-run": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varasmanu/Memotest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varasmanu/Memotest/issues"
+  },
+  "homepage": "https://github.com/Varasmanu/Memotest#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  },
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  }
+}
